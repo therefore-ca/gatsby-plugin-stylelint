@@ -1,5 +1,5 @@
 {
-  "name": "@danbruegge/gatsby-plugin-stylelint",
+  "name": "@therefore/gatsby-plugin-stylelint",
   "version": "4.1.0",
   "description": "Gatsby plugin to add support for stylelint",
   "main": "index.js",
