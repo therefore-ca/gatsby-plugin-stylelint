@@ -7,7 +7,7 @@
   "author": "Daniel Brüggemann",
   "license": "MIT",
   "dependencies": {
-    "stylelint": "^13.8.0",
+    "stylelint": "^13.13.1",
     "stylelint-bare-webpack-plugin": "2.0.2"
   },
   "peerDependencies": {
